@@ -1,0 +1,10 @@
+{
+  "name": "ethereum-credentials-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eth-crypto": "^1.6.0",
+    "inquirer": "^7.1.0"
+  }
+}
